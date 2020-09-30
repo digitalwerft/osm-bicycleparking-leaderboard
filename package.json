@@ -1,0 +1,9 @@
+{
+  "name": "osm-bicycleparking-leaderboard",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "got": "^11.7.0"
+  }
+}
